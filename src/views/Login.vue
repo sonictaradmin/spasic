@@ -43,7 +43,7 @@
             <span></span>
             <span></span>
             <span></span>
-            <p id="bt">SUCK</p>
+            <p id="bt">lets gooo!!</p>
           </a>
         </div>
         <img
@@ -65,7 +65,7 @@ import { required, minLength, maxLength } from "vuelidate/lib/validators";
 export default {
   data() {
     return {
-      username: "welcometospasic",
+      username: "admin",
       password: "123456",
       showForm: true,
     };
